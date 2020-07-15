@@ -22,7 +22,6 @@ Requirements:(All network reimplements are same of similar)
 * 6.tqdm(For training)
 * 7.Opencv-Python
 * 8.tensorboardX
-* 9.pip install resnest --pre
 
 Dataset Modified:
 
